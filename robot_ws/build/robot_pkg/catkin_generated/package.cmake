@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "robot_pkg")
+set(robot_pkg_MAINTAINER "computing <computing@todo.todo>")
+set(robot_pkg_DEPRECATED "")
+set(robot_pkg_VERSION "0.0.0")
+set(robot_pkg_BUILD_DEPENDS "std_msgs")
+set(robot_pkg_RUN_DEPENDS "std_msgs")
+set(robot_pkg_BUILDTOOL_DEPENDS "catkin")
